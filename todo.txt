@@ -1,0 +1,7 @@
+Make folder structure make sense if we have a client and a server
+Make it easy to deploy server to heroku
+Make it easy to deploy client to s3+cloudfront
+Use Flux
+Use React
+Replace less with sass+compass
+Yeomanize
